@@ -9,10 +9,10 @@
 *[9]01
 *[10]01
 *[11]20
-+[1]%SL_DIR%NFPA/;%SL_DIR%NFPA/1-/;%SL_DIR%pneu_iso125/;%SL_DIR%hyd_iso125/;%SL_DIR%pid/
-+[2]ACE_NFPA_MENU.DAT
++[1]%SL_DIR%NFPA/;%SL_DIR%NFPA/1-/;%SL_DIR%pneu_iso125/;%SL_DIR%hyd_iso125/;%SL_DIR%pid/;C:\Users\Public\Documents\Autodesk\Acade 2019\Libs\iec-60617;C:\Users\Public\Documents\Autodesk\Acade 2019\Libs\iec-60617\1-
++[2]C:\Users\CRJ\AppData\Roaming\Autodesk\AutoCAD Electrical 2019\R23.0\enu\Support\ACE_IEC-60617_MENU.DAT
 +[3]%SL_DIR%panel/
-+[4]ACE_PANEL_MENU_NFPA.DAT
++[4]C:\Users\CRJ\AppData\Roaming\Autodesk\AutoCAD Electrical 2019\R23.0\enu\Support\ACE_PANEL_MENU_IEC-60617.DAT
 +[5]1
 +[6]0
 +[7]
@@ -39,16 +39,19 @@
 +[28]0
 +[29]0
 +[30]0.000000
++[32]1
++[33]
 +[34]0
 +[35];
 +[36]0
 +[37]0
++[38]
 ?[0]H
-?[1]1
+?[1]5
 ?[2]R
 ?[3]1
-?[4],A,B,C,D,E,F,G,H,J
-?[5]%F%N
+?[4]1,2,3,4,5,6,7,8,9,10
+?[5]%F%X%N
 ?[6]R
 ?[7]1
 ?[8],A,B,C,D,E,F,G,H,J,K,L,M,N
@@ -91,7 +94,7 @@
 ?[47]%N
 ?[48]TAGFIXED
 ?[49]1
-?[50]0
+?[50]1
 ?[51]
 ?[52]
 ?[53]
@@ -118,5 +121,27 @@
 ?[74]0.0
 ?[75]1
 ?[76]0,0.03125,0
+===
+===
+===
 =====SUB=INDICE
-IND_1.dwg
+IND__1.dwg
+=====SUB=INDICE
+IND_2.dwg
+=====SUB=GP
+GP_1.dwg
+=====SUB=GC
+GC_100.dwg
+=====SUB=GC
+GC_110.dwg
+=====SUB=GC
+GC_111.dwg
+=====SUB=GC
+GC_120.dwg
+=====SUB=DI[Empty]
+=====SUB=DO[Empty]
+===DIVIDER STORK 3
+===TOPOGRÁFICO PLC
+===MOLINOS SA - PTA SANTA CLARA
+=====SUB=TP
+TP_1.dwg
