@@ -18,7 +18,7 @@
 +[7]
 +[8]0
 +[9]
-+[10]0
++[10]1
 +[11]1
 +[12]0
 +[13]0
@@ -41,7 +41,7 @@
 +[30]0.000000
 +[32]1
 +[33]
-+[34]0
++[34]1
 +[35];
 +[36]0
 +[37]0
@@ -51,12 +51,12 @@
 ?[2]R
 ?[3]1
 ?[4]1,2,3,4,5,6,7,8,9,10
-?[5]%F%X%N
-?[6]R
+?[5]%F%N
+?[6]S
 ?[7]1
 ?[8],A,B,C,D,E,F,G,H,J,K,L,M,N
 ?[9]%N
-?[10]1
+?[10]10
 ?[11]0.75
 ?[12]4.5
 ?[14]%N
@@ -130,6 +130,12 @@ IND__1.dwg
 IND_2.dwg
 =====SUB=GP
 GP_1.dwg
+=====SUB=GP
+GP_2.dwg
+=====SUB=GC
+GC_1.dwg
+=====SUB=GC
+GC_2.dwg
 =====SUB=GC
 GC_100.dwg
 =====SUB=GC
@@ -138,10 +144,29 @@ GC_110.dwg
 GC_111.dwg
 =====SUB=GC
 GC_120.dwg
-=====SUB=DI[Empty]
-=====SUB=DO[Empty]
+=====SUB=GC
+GC_121.dwg
+=====SUB=GC
+GC_122.dwg
+=====SUB=DI
+DI_0.dwg
+=====SUB=DI
+DI_1.dwg
+=====SUB=DI
+DI_2.dwg
+=====SUB=DO
+DO_0.dwg
+=====SUB=DO
+DO_1.dwg
+=====SUB=DO
+DO_2.dwg
 ===DIVIDER STORK 3
 ===TOPOGRÁFICO PLC
 ===MOLINOS SA - PTA SANTA CLARA
 =====SUB=TP
 TP_1.dwg
+===DIVIDER STORK 3
+===TOPOGRÁFICO PLC
+===MOLINOS SA - PTA SANTA CLARA
+=====SUB=TP
+TP_2.dwg
